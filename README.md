@@ -1,6 +1,6 @@
 # lamna-nasus
 
-<img src="https://github.com/BSFernando/lamna-nasus/peso_comp.png" alt="alt text" width="600px">
+<img src="https://github.com/BSFernando/lamna-nasus/blob/main/peso_comp.png" alt="alt text" width="600px">
 
 Relação peso-comprimento do L.nasus na região noroeste do oceano atlântico norte:
   1962 - 1995 (fase - do OMA) 
